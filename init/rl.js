@@ -13,7 +13,7 @@ let map;
 let asciidisplay;
 
 // 所有人物列表，0代表玩家
-let player; // 玩家
+let player; 
 let actorList; // 人物列表
 let livingEnemies; // 活着的敌人
 
